@@ -26,8 +26,8 @@ html, body {
 }
 
 .svg-shdow {
-    -webkit-filter: drop-shadow(0px 0px 12px #00ffbb);
-    filter: drop-shadow(0px 0px 12px #00ffbb);
+    -webkit-filter: drop-shadow(0px 0px 12px #ebd3c5);
+    filter: drop-shadow(0px 0px 12px #ebd3c5);
 }
 
 div.slick-list.draggable {
@@ -39,7 +39,7 @@ div.slick-list.draggable {
 }
 
 .next-up .next-up-inner .btn {
-    background-color: #67f8f1;
+    background-color: #ebd3c5;
 }
 @media (max-width: 992px) {
     .site-header .extend-container .main-navigation {
@@ -48,7 +48,7 @@ div.slick-list.draggable {
     }
 }
 .fa-whatsapp:before{
-    color: #00ffbb;
+    color: #ebd3c5;
 }
 .fab.fa-twitter{
     color: aqua;

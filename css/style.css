@@ -105,7 +105,7 @@
 }
 
 .background-theme {
-    /*background-color: #67f8f1;*/
+    background-color: #9d867317;
     backdrop-filter: blur(30px);
     -webkit-transition-property: background-color, color;
     -o-transition-property: background-color, color;
@@ -310,7 +310,7 @@ button, input, optgroup, select, textarea {
 }
 
 h1, h2, h3, h4, h5, h6 {
-    color: #00ffbb;
+    color: #ebd3c5;
     font-weight: 700;
     line-height: 1.2;
     font-family: "Roboto";
@@ -337,7 +337,7 @@ h3 {
 
 h4 {
     font-size: 30px;
-    color: #bcff82;
+    color: #9d8673;
 }
 
 h5 {
@@ -410,7 +410,7 @@ html {
 body {
     background-color: #000;
     line-height: 1.2;
-    color: #71a2a0;
+    color: #9d8673;
     font-family: "Karla";
     font-weight: 500;
     margin: 0;
@@ -1032,7 +1032,7 @@ body.v-light:not(.no-light) {
     font-weight: 700;
     letter-spacing: 3px;
     font-size: 16px;
-    color: #00ffbb;
+    color: #ebd3c5;
     top: -25px
 }
 
@@ -1068,8 +1068,8 @@ body.v-light:not(.no-light) {
 .preloader .preloader-bar .preloader-progress {
     width: 0;
     height: 100%;
-    background: #00ffbb;
-    box-shadow: 0 0 3px #00ffbb;
+    background: #ebd3c5;
+    box-shadow: 0 0 3px #ebd3c5;
 }
 
 .view-demo {
@@ -1234,9 +1234,9 @@ body.v-light:not(.no-light) {
 
 .slick-dots li button {
     position: relative;
-    background-color: #67f8f1;
-    -webkit-filter: drop-shadow(0px 0px 12px #00ffbb);
-    filter: drop-shadow(0px 0px 12px #00ffbb);
+    background-color: #ebd3c5;
+    -webkit-filter: drop-shadow(0px 0px 12px #ebd3c5);
+    filter: drop-shadow(0px 0px 12px #ebd3c5);
     width: 15px;
     height: 2px;
     font-size: 0;
@@ -1739,7 +1739,7 @@ a.link-hover:hover {
     font-size: 14px;
     font-weight: 700;
     text-transform: uppercase;
-    color: #67f8f1;
+    color: #ebd3c5;
     letter-spacing: 2px
 }
 
@@ -2536,7 +2536,7 @@ a:active, a:hover {
 }
 
 .site-header .menu-icon .icon-m .menu-icon-line {
-    background-color: #67f8f1;
+    background-color: #ebd3c5;
     width: 23px;
     height: 2px;
     -webkit-transition: -webkit-transform 0.2s ease-Out;
@@ -2812,7 +2812,7 @@ a:active, a:hover {
 }
 
 .site-header .extend-container .main-navigation ul.extend-container li.dsn-active, .site-header .extend-container .main-navigation ul.extend-container li:hover {
-    color: #67f8f1
+    color: #ebd3c5
 }
 
 .site-header .extend-container .main-navigation ul.extend-container li.dsn-active .dsn-meta-menu, .site-header .extend-container .main-navigation ul.extend-container li:hover .dsn-meta-menu {
@@ -3015,7 +3015,7 @@ a:active, a:hover {
         left: 30px;
         width: 25px;
         height: 1px;
-        background: #67f8f1;
+        background: #ebd3c5;
         border-radius: 3px
     }
 
@@ -4008,7 +4008,7 @@ a:active, a:hover {
 .intro-about .box-img {
     height: 100%;
     padding-left: 50px;
-    border: 1px solid #00ffbb;
+    border: 1px solid #ebd3c5;
 }
 
 @media only screen and (max-width: 991px) {
@@ -4128,9 +4128,9 @@ a:active, a:hover {
 .accordion__question:before {
     content: "";
     display: inline-block;
-    border: solid #67f8f1;
-    -webkit-filter: drop-shadow(0px 0px 12px #00ffbb);
-    filter: drop-shadow(0px 0px 12px #00ffbb);
+    border: solid #ebd3c5;
+    -webkit-filter: drop-shadow(0px 0px 12px #ebd3c5);
+    filter: drop-shadow(0px 0px 12px #ebd3c5);
     border-width: 0 2px 2px 0;
     padding: 3px;
     position: absolute;
@@ -4152,7 +4152,7 @@ a:active, a:hover {
 
 .expanded.accordion__question:before {
     content: "";
-    border: solid #67f8f1;
+    border: solid #ebd3c5;
     border-width: 0 2px 2px 0;
     display: inline-block;
     padding: 3px;
@@ -4474,8 +4474,8 @@ a:active, a:hover {
 
 .service.service-3 .services-item .box-content .icon img {
     width: 60px;
-    -webkit-filter: drop-shadow(0px 0px 12px #00ffbb);
-    filter: drop-shadow(0px 0px 12px #00ffbb);
+    -webkit-filter: drop-shadow(0px 0px 12px #ebd3c5);
+    filter: drop-shadow(0px 0px 12px #ebd3c5);
 }
 
 .service.service-3 .services-item .box-content .content-inner {
@@ -4596,7 +4596,7 @@ a:active, a:hover {
 }
 
 .services-about .services-wp .box-title-services ul li.active {
-    color: #00ffbb
+    color: #74645c
 }
 
 .v-light:not(.no-light) .services-about .services-wp .box-title-services ul li.active {
@@ -4613,7 +4613,7 @@ a:active, a:hover {
 }
 
 .services-about .services-wp .content .services-item-info h5 {
-    color: #00ffbb;
+    color: #ebd3c5;
     font-weight: 600;
     margin-bottom: 20px;
 }
@@ -5564,7 +5564,7 @@ a:active, a:hover {
 }
 
 .testimonials-2.testimonials-3 .testimonials-nav .testimonials-nav-item-inner .info h5 {
-    color: #67f8f1;
+    color: #ebd3c5;
     font-size: 16px;
     font-weight: 600;
     letter-spacing: 1.2px;
@@ -5690,7 +5690,7 @@ a:active, a:hover {
     font-weight: 800;
     font-size: 165px;
     line-height: 100px;
-    color: #00ffbb
+    color: #ebd3c5
 }
 
 .v-light:not(.no-light) .testimonials-2.testimonials-3.testimonials-new .testimonials-inner:after {
@@ -5721,8 +5721,8 @@ a:active, a:hover {
 .testimonials-2.testimonials-3.testimonials-new .testimonials-inner .testimonials-item .top-box h5:after {
     width: 6px;
     height: 6px;
-    background-color: #00ffbb;
-    box-shadow: 0 0 9px #00ffbb;
+    background-color: #ebd3c5;
+    box-shadow: 0 0 9px #ebd3c5;
     border-radius: 50%
 }
 
@@ -5734,10 +5734,10 @@ a:active, a:hover {
     bottom: 3px;
     width: 80px;
     height: 1px;
-    background: -webkit-gradient(linear, left top, right top, color-stop(0, #00ffbb), color-stop(35%, rgba(0, 255, 187, 0.62)), color-stop(65%, #999), to(#212121));
-    background: -webkit-linear-gradient(left, #00ffbb 0, rgba(0, 255, 187, 0.62) 35%, #999 65%, #212121 100%);
-    background: -o-linear-gradient(left, #00ffbb 0, rgba(0, 255, 187, 0.62) 35%, #999 65%, #212121 100%);
-    background: linear-gradient(to right, #00ffbb 0, rgba(0, 255, 187, 0.62) 35%, #999 65%, #212121 100%)
+    background: -webkit-gradient(linear, left top, right top, color-stop(0, #ebd3c5), color-stop(35%, rgba(0, 255, 187, 0.62)), color-stop(65%, #999), to(#212121));
+    background: -webkit-linear-gradient(left, #ebd3c5 0, rgba(0, 255, 187, 0.62) 35%, #999 65%, #212121 100%);
+    background: -o-linear-gradient(left, #ebd3c5 0, rgba(0, 255, 187, 0.62) 35%, #999 65%, #212121 100%);
+    background: linear-gradient(to right, #ebd3c5 0, rgba(0, 255, 187, 0.62) 35%, #999 65%, #212121 100%)
 }
 
 .testimonials-2.testimonials-3.testimonials-new .section-title-2 {
@@ -7337,10 +7337,10 @@ a:active, a:hover {
 }
 
 .dsn-effect-scroll:not(.dsn-mobile) #dsn-scrollbar .scrollbar-track .scrollbar-thumb, .dsn-work-scrollbar .scrollbar-track .scrollbar-thumb, .sidebar-single .scrollbar-track .scrollbar-thumb {
-    background: #00ffbb;
-    /* -webkit-filter: drop-shadow(0px 0px 12px #00ffbb);
-    filter: drop-shadow(0px 0px 12px #bcff82);
-    box-shadow: 0 0 9px #00ffbb; */
+    background: #ebd3c5;
+    /* -webkit-filter: drop-shadow(0px 0px 12px #ebd3c5);
+    filter: drop-shadow(0px 0px 12px #9d8673);
+    box-shadow: 0 0 9px #ebd3c5; */
     width: 5px
 }
 
@@ -8460,8 +8460,8 @@ header .header-master.header-half .social-network-box {
     left: 0;
     top: 0;
     height: 70%;
-    background-color: #00ffbb;
-    box-shadow: 0 0 10px #00ffbb;
+    background-color: #ebd3c5;
+    box-shadow: 0 0 10px #ebd3c5;
 }
 
 .main-slider .dsn-slider-content {
@@ -9956,7 +9956,7 @@ label {
 
 .footer-1 .footer-links .footer-title {
     position: relative;
-    color: #67f8f1;
+    color: #ebd3c5;
     text-transform: uppercase;
     font-size: 16px;
     padding-bottom: 10px;
@@ -9975,10 +9975,10 @@ label {
     bottom: 0;
     width: 15px;
     height: 2px;
-    background-color: #00ffbb;
-    -webkit-filter: drop-shadow(0px 0px 12px #00ffbb);
-    filter: drop-shadow(0px 0px 12px #bcff82);
-    box-shadow: 0 0 9px #00ffbb;
+    background-color: #ebd3c5;
+    -webkit-filter: drop-shadow(0px 0px 12px #ebd3c5);
+    filter: drop-shadow(0px 0px 12px #9d8673);
+    box-shadow: 0 0 9px #ebd3c5;
 }
 
 .v-light:not(.no-light) .footer-1 .footer-links .footer-title:after {
@@ -10146,7 +10146,7 @@ label {
 
 .footer-1 .copyright .copright-text a {
     color: #fff;
-    text-shadow: 0 0 #00ffbb;
+    text-shadow: 0 0 #ebd3c5;
     font-weight: bolder;
 }
 

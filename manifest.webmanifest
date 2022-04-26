@@ -1,0 +1,15 @@
+{
+  "name": "Nill Developers",
+  "short_name": "Nill",
+  "start_url": "http://127.0.0.1:5501/",
+  "display": "standalone",
+  "background_color": "#fff",
+  "description": "Nill Developers Gp",
+  "icons": [
+    {
+      "src": "img/NillDevelopersLogo.png",
+      "sizes": "313x313",
+      "type": "image/png"
+    }
+  ]
+}
